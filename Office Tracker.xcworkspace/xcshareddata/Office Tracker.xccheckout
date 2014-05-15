@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0C7B1E78-D137-47C8-ADF4-49C49CAC2451</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Office Tracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF511D13-A4B9-4264-A05B-B969A3A52CA8</key>
+		<string>ssh://github.com/marcdown/OfficeTracker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Office Tracker.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF511D13-A4B9-4264-A05B-B969A3A52CA8</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/marcdown/OfficeTracker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF511D13-A4B9-4264-A05B-B969A3A52CA8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF511D13-A4B9-4264-A05B-B969A3A52CA8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OfficeTracker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
